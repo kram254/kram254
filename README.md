@@ -1,12 +1,13 @@
-### Hi there I'm Emmanuel Mark Ndaliro, 👋
+### Hi there I'm Emmanuel Mark, 👋
 
 A passionate Software Engineer, Mobile Developer and a Freelance software engineer. My passion for Software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture and code quality of the things I build. 
 
 - 🔭 I’m currently working on perfecting my Flutter UX/UI and frontend technique to be flawless.
-- 🌱 I’m currently learning backend with Python, python Flask framework and Appwrite.
+- 👨‍💻 I’m currently learning backend with Python, python Flask framework and Appwrite.
 - 🤔 Unit testing, Widget testing and Integration testing.
-- 💬 Ask me about cross-platform mobile App development.
-- 📫 How to reach me: [Email me]|(markorlando45@gmail.com)
+- 💬 Ask me about... Anything
+- 📫 How to reach me: [LinkedIn]|(https://www.linkedin.com/in/emmanuel-ndaliro-501771124/)
+- 📧 Mail me [here]|
 <!--
 **kram254/kram254** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
