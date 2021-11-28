@@ -6,15 +6,18 @@ A passionate Software Engineer, Mobile Developer and a Freelance software engine
 - 👨‍💻 I’m currently learning backend with Python, python Flask framework and Appwrite.
 - 🤔 Unit testing, Widget testing and Integration testing.
 - 💬 Ask me about... Anything
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/emmanuel-ndaliro-501771124/)
 
-![giphy](https://user-images.githubusercontent.com/33391934/143764854-94adc43f-03f6-4a94-84df-603ac5b98737.gif)
+<p><img align="right" alt="gif" src="https://user-images.githubusercontent.com/33391934/143764854-94adc43f-03f6-4a94-84df-603ac5b98737.gif" width="500" height="120" /></p>
+
+
 
 <!--
 **kram254/kram254** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+![giphy](https://user-images.githubusercontent.com/33391934/143764854-94adc43f-03f6-4a94-84df-603ac5b98737.gif)
 Here are some ideas to get you started:
 
-- 📫 How to reach me: [LinkedIn]|(https://www.linkedin.com/in/emmanuel-ndaliro-501771124/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/emmanuel-ndaliro-501771124/)
 - 📧 Mail me [here]|
 
 - 🔭 I’m currently working on ...
