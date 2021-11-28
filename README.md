@@ -7,7 +7,7 @@ A passionate Software Engineer, Mobile Developer and a Freelance software engine
 - 🤔 Unit testing, Widget testing and Integration testing.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/emmanuel-ndaliro-501771124/)
 
-<p><img align="center" alt="gif" src="https://user-images.githubusercontent.com/33391934/143764854-94adc43f-03f6-4a94-84df-603ac5b98737.gif" width="600" height="450" /></p>
+<p><img align="right" alt="gif" src="https://user-images.githubusercontent.com/33391934/143764854-94adc43f-03f6-4a94-84df-603ac5b98737.gif" width="500" height="350" /></p>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kram254&theme=merko)
 
