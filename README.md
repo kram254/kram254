@@ -7,7 +7,7 @@ A passionate Software Engineer, Mobile Developer and a Freelance software engine
 - 🤔 Unit testing, Widget testing and Integration testing.
 - 💬 Ask me about... Anything
 
-![giphy](https://user-images.githubusercontent.com/33391934/143764854-94adc43f-03f6-4a94-84df-603ac5b98737.gif)   ![flutter_source](https://user-images.githubusercontent.com/33391934/143765077-1d7d17b1-c7dd-42e5-a019-c5584686d5be.gif)
+<center>![giphy](https://user-images.githubusercontent.com/33391934/143764854-94adc43f-03f6-4a94-84df-603ac5b98737.gif) </center>
 
 <!--
 **kram254/kram254** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
