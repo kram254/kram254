@@ -2,6 +2,8 @@
 
 A passionate Software Engineer, Mobile Developer and a Freelance software engineer. My passion for Software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture and code quality of the things I build. 
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kram254&theme=merko)
+
 - 🔭 I’m currently working on perfecting my Flutter UX/UI and frontend technique to be flawless.
 - 👨‍💻 I’m currently learning backend with Python, python Flask framework and Appwrite.
 - 🤔 Unit testing, Widget testing and Integration testing.
