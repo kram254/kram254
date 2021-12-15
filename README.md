@@ -1,6 +1,6 @@
 ### Hi there I'm Emmanuel Mark, 👋
 
-A passionate Software Engineer, Mobile Developer and a Freelance software engineer. My passion for Software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture and code quality of the things I build. 
+A passionate Software Engineer, Mobile Developer and a Freelance software developer. My passion for Software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture and code quality of the things I build. 
 
 ## 🧰 Languages and Tools:
 <p align="center">
