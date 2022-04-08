@@ -16,7 +16,7 @@ A passionate Software Engineer, Mobile Developer and a Freelance software develo
 - 🔭 I’m currently working on perfecting my Flutter UX/UI and frontend technique to be flawless.
 - 👨‍💻 I’m currently learning backend with Python, python Flask framework, TestAutomation.
 - 🤔 Unit testing, Widget testing and Integration testing.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/emmanuel-ndaliro-501771124/)
+- 📫 Get in touch: [LinkedIn](https://www.linkedin.com/in/emmanuel-ndaliro-501771124/)
 
 
 <p><img align="right" alt="gif" src="https://user-images.githubusercontent.com/33391934/143764854-94adc43f-03f6-4a94-84df-603ac5b98737.gif" width="525" height="355"/></p>
