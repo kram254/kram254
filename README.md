@@ -15,7 +15,7 @@ A passionate Software Engineer, Mobile Developer and a Freelance software develo
 
 - 🔭 I’m currently working on M-Pesa API integration.
 - 👨‍💻 I’m currently learning backend with Python, python Flask framework, TestAutomation.
-- 🤔 Unit testing, Widget testing and Integration testing.
+- 🤔 Unit testing, Widget testing and Integration testing
 - 📫 Get in touch: [LinkedIn](https://www.linkedin.com/in/emmanuel-ndaliro-501771124/)
 
 
