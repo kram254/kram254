@@ -13,8 +13,11 @@ A passionate Software Engineer, Mobile Developer and a Freelance software develo
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">  
 </p>
 
-<p>
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,devto,bots,django,figma,pytorch,firebase,flask,py,r,gradle,github,mysql,githubactions,maven,linux)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=androidstudio,devto,bots,django,figma,pytorch,firebase,flask,py,r,gradle,github,mysql,githubactions,maven,linux" />
+  </a>
+</p>
 
 </p>
 
