@@ -15,7 +15,7 @@ A passionate Software Engineer, Mobile Developer and a Freelance software develo
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,devto,bots,django,figma,pytorch,firebase,flask,py,r,gradle,github,mysql,githubactions,maven,linux" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,devto,bots,django,figma,pytorch,firebase,flask,py,r,gradle,github,mysql,githubactions,maven,linux&perline=5" />
   </a>
 </p>
 
