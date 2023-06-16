@@ -1,28 +1,18 @@
 ### Hi there I'm Emmanuel Mark, 👋
 
-A passionate Software Engineer, Mobile Developer and a Freelance software developer. My passion for Software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture and code quality of the things I build. 
+A passionate software engineer, Mobile Developer and Freelance software developer. My passion for Software lies in dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture and code quality of the things I build. 
 
 ## 🧰 Languages and Tools:
 <p align="center">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" alt="Flutter" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" alt="Flask" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" alt="Android" height="40" style="vertical-align:top; margin:4px"> 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ios/ios.png" alt="IOS" height="40" style="vertical-align:top; margin:4px">  
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">  
-</p>
-
-<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,devto,bots,django,figma,pytorch,firebase,flask,py,r,gradle,github,mysql,githubactions,maven,linux&perline=10" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,devto,flutter,ios,bots,django,figma,pytorch,firebase,flask,py,r,gradle,github,mysql,githubactions,maven,linux,js&perline=16" />
   </a>
 </p>
 
 </p>
 
 - 🔭 I’m currently working on M-Pesa API integration.
-- 👨‍💻 I’m currently learning backend with Python, python Flask framework, TestAutomation.
+- 👨‍💻 I’m currently learning backend with Python, python Flask framework, and TestAutomation.
 - 🤔 Unit testing, Widget testing and Integration testing
 - 📫 Get in touch: [LinkedIn](https://www.linkedin.com/in/emmanuel-ndaliro-501771124/)
 
