@@ -1,11 +1,11 @@
 ### Hi there I'm Emmanuel Mark, 👋
 
-A passionate software engineer, Mobile Developer and Freelance software developer. My passion for Software lies in dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture and code quality of the things I build. 
+It's all about building, innovating, making a difference, praying, and working hard that we make a career while at it.
 
 ## 🧰 Languages and Tools:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,devto,flutter,ios,bots,django,figma,pytorch,firebase,flask,py,r,gradle,github,mysql,githubactions,maven,linux,js&perline=16" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,devto,flutter,ios,bots,django,figma,pytorch,firebase,flask,py,r,gradle,github,mysql,githubactions,maven,linux,js&perline=4" />
   </a>
 </p>
 
