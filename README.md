@@ -5,15 +5,16 @@ It's all about building, innovating, making a difference, praying, and working h
 ## 🧰 Languages and Tools:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,devto,flutter,ios,bots,django,figma,pytorch,firebase,flask,py,r,gradle,github,mysql,githubactions,maven,linux,js&perline=4" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,devto,flutter,ios,bots,django,figma,pytorch,firebase,flask,py,r,gradle,github,mysql,githubactions,maven,linux,js&perline=16" />
   </a>
 </p>
 
 </p>
 
-- 🔭 I’m currently working on M-Pesa API integration.
+- 🔭 I’m currently working on PCEP - Python Certification.
 - 👨‍💻 I’m currently learning backend with Python, python Flask framework, and TestAutomation.
-- 🤔 Unit testing, Widget testing and Integration testing
+- 👨🏽‍💻 My current personal projects revolve around Automation using Python, Data Scraping, Data Analysis using Python and R, and Real Business Solutions.
+- 🤔 Unit testing, Widget testing and Integration testing, and PyTest
 - 📫 Get in touch: [LinkedIn](https://www.linkedin.com/in/emmanuel-ndaliro-501771124/)
 
 
