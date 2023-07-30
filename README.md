@@ -23,26 +23,3 @@ It's all about building, innovating, making a difference, praying, and working h
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kram254&theme=tokyonight)
 
-
-
-
-
-
-<!--
-**kram254/kram254** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![giphy](https://user-images.githubusercontent.com/33391934/143764854-94adc43f-03f6-4a94-84df-603ac5b98737.gif)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kram254&theme=merko)
-Here are some ideas to get you started:
-
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/emmanuel-ndaliro-501771124/)
-- 📧 Mail me [here]|
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
