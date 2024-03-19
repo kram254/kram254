@@ -23,5 +23,5 @@ It's all about building, innovating, making a difference, praying, and working h
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kram254&theme=tokyonight)
 
-[![Kario's GitHub stats](https://github-readme-stats.vercel.app/api?username=kram254&theme)](https://github.com/kram254&/github-readme-stats)
+
 
