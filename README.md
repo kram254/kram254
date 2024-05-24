@@ -1,6 +1,6 @@
 ### Hi there I'm Emmanuel Mark, 👋
 
-It's all about building, innovating, making a difference, praying, and working hard that we make a career while at it.
+It's all about building, innovating, making a difference.
 
 ## 🧰 Languages and Tools:
 <p align="center">
@@ -11,10 +11,9 @@ It's all about building, innovating, making a difference, praying, and working h
 
 </p>
 
-- 🔭 I’m currently working on PCEP - Python Certification.
-- 👨‍💻 I’m currently learning backend with Python, python Flask framework, and TestAutomation.
-- 👨🏽‍💻 My current personal projects revolve around Automation using Python, Data Scraping, Data Analysis using Python and R, and Real Business Solutions.
-- 🤔 Unit testing, Widget testing and Integration testing, and PyTest
+
+
+  
 - 📫 Get in touch: [LinkedIn](https://www.linkedin.com/in/emmanuel-ndaliro-501771124/)
 
 
