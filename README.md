@@ -5,9 +5,9 @@ It's all about building, innovating, making a difference.
 ## 🧰 Languages and Tools:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,devto,flutter,bots,django,figma,pytorch,firebase,flask,py&perline=16" />
-    <img src="https://skillicons.dev/icons?i=figma,pytorch,firebase,flask,py&perline=16" />
-    <img src="https://skillicons.dev/icons?i=firebase,flask,py,r,gradle,github&perline=16" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,devto,flutter,bots,django&perline=16" /></br>
+    <img src="https://skillicons.dev/icons?i=figma,pytorch,firebase,flask,py&perline=16" /></br>
+    <img src="https://skillicons.dev/icons?i=r,gradle,github&perline=16" /></br>
     <img src="https://skillicons.dev/icons?i=mysql,githubactions,maven,linux,js&perline=16" />
   </a>
 </p>
