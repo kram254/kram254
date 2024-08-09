@@ -1,6 +1,6 @@
-### Hi there I'm Emmanuel Mark, 👋
+### Hello there, Emmanuel Mark here, just a work in progress👋
 
-It's all about building, innovating, making a difference.
+There's a thing about building, innovation, and making a difference.
 
 ## 🧰 Languages and Tools:
 <p align="center">
