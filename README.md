@@ -18,7 +18,7 @@ There's a thing about building, innovation, and making a difference.
 - 📫 Get in touch: [LinkedIn](https://www.linkedin.com/in/emmanuel-ndaliro-501771124/)
 
 
-<p><img align="right" alt="gif" src="https://user-images.githubusercontent.com/33391934/143764854-94adc43f-03f6-4a94-84df-603ac5b98737.gif" width="525" height="320"/></p>
+<p><img align="right" alt="gif" src="https://user-images.githubusercontent.com/33391934/143764854-94adc43f-03f6-4a94-84df-603ac5b98737.gif" width="525" height="305"/></p>
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kram254&theme=tokyonight)
