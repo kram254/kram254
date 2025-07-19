@@ -1,6 +1,6 @@
 ### Hello there, Emmanuel Mark here, just a work in progress👋
 
-There's a thing about building, innovation, and making a difference.
+Basically I'm just a problem solver. There is nothing bigger, if you can imagine it, I can build it. There's a thing about building, innovation, and making a difference.
 
 ## 🧰 Languages and Tools:
 <p align="center">
