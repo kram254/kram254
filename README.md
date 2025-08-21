@@ -38,23 +38,6 @@ Basically I'm just a problem solver. There is nothing bigger, if you can imagine
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-## 📊 GitHub Stats
-
-![Emmanuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kram254&show_icons=true&theme=tokyonight&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kram254&layout=compact&theme=tokyonight)
-
-## 🏆 Key Metrics
-- **1,826** contributions in the last year
-- **174** public repositories
-- **119** starred repositories
-- **Active** in AI/ML open source community
-
-
-
-
-
-
 
   
 - 📫 Get in touch: [LinkedIn](https://www.linkedin.com/in/emmanuel-ndaliro-501771124/)
