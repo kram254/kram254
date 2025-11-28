@@ -57,8 +57,6 @@ Basically I'm just a problem solver. There is nothing bigger; if you can imagine
     <img src="https://skillicons.dev/icons?i=androidstudio,devto,flutter,bots,django,figma,pytorch,firebase,flask,py, mysql,githubactions,maven,linux,js&perline=16" /></br>
      </a>
 </p>
-
-</p>
   
 - 📫 Get in touch: [LinkedIn](https://www.linkedin.com/in/emmanuel-ndaliro-501771124/)
 
